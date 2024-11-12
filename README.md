@@ -12,7 +12,8 @@ View Demo: https://lorepirri.gitlab.io/jekyll-theme-simple-blog/
 
 <img src="https://gitlab.com/lorepirri/jekyll-theme-simple-blog/raw/master/simple-blog-theme.png" alt="Thumbnail of jekyll-theme-simple-blog" style="max-width:30%; border: 1px solid grey;"/>
 
-## Features
+## Feature
+
 
 - Blog
 - Responsive
